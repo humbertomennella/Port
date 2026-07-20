@@ -21,17 +21,17 @@
   <tr>
     <td style="padding:4px;">
       <a href="mailto:humberto.mennella@gmail.com" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/Gmail-humberto.mennella%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=00d4aa&labelColor=161b22&color=21262d">
+        <img src="https://img.shields.io/badge/Gmail-humberto.mennella%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white">
       </a>
     </td>
     <td style="padding:4px;">
-      <a href="https://linkedin.com/in/humbertomennella" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/LinkedIn-humbertomennella-0d1117?style=flat-square&logo=linkedin&logoColor=00d4aa&labelColor=161b22&color=21262d">
+      <a href="https://linkedin.com/in/humberto-mennella-89973a16a" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/LinkedIn-humbertomennella-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
       </a>
     </td>
     <td style="padding:4px;">
       <a href="https://github.com/humbertomennella" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/GitHub-humbertomennella-0d1117?style=flat-square&logo=github&logoColor=00d4aa&labelColor=161b22&color=21262d">
+        <img src="https://img.shields.io/badge/GitHub-humbertomennella-181717?style=flat-square&logo=github&logoColor=white">
       </a>
     </td>
   </tr>
@@ -178,6 +178,6 @@
     // Humberto Mennella — Systems Optimization & Technical Support // Curitiba, PR //
   </p>
   <p style="font-family:'JetBrains Mono','Consolas',monospace; font-size:10px; color:#484f58; opacity:0.5; margin-top:4px;">
-    PRO PORTFOLIO v5.1 // ACCURATE & STRICT REALITY // 2026
+    PRO PORTFOLIO v5.2 // FIXED BADGE SYNTAX // 2026
   </p>
 </div>
