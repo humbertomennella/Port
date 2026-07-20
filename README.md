@@ -26,7 +26,7 @@
     </td>
     <td style="padding:4px;">
       <a href="https://linkedin.com/in/humbertomennella" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/LinkedIn-humbertomennella-0d1117?style=flat-square&logo=linkedin&logoColor=00d4aa&labelColor=161b22&color=21262d">
+        <img src="https://img.shields.io/badge/LinkedIn-humberto-mennella-89973a16a?style=flat-square&logo=linkedin&logoColor=00d4aa&labelColor=161b22&color=21262d">
       </a>
     </td>
     <td style="padding:4px;">
